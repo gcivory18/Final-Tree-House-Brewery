@@ -3,6 +3,7 @@ import axios from "axios";
 import { FiRefreshCw } from "react-icons/fi";
 
 // My CRUD operations are below using my Mock API
+// Also included a react icon to refresh the CRUD
 
 const BeerOrder = () => {
   const [text, setText] = useState("Type your order:");

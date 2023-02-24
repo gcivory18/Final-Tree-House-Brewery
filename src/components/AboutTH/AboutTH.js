@@ -1,6 +1,9 @@
 import React from "react";
 import "./AboutTH.css";
 
+// This is the about page where I have included the description for Tree House
+// The footer is also on the bottom of this page
+
 const AboutTH = () => {
   return (
     <div className="aboutTH">

@@ -1,6 +1,8 @@
 import React from "react";
 import "./Locations.css";
 
+// Used an unordered list for all the different locations 
+
 const Locations = () => {
   return (
     <div className="locations">

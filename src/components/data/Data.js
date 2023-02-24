@@ -1,6 +1,8 @@
 import React from "react";
 import "./Data.css";
 
+// This is actually the Swag section, it is set up like the others
+
 const Data = () => {
   return (
     <div className="data">

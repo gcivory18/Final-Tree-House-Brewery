@@ -1,7 +1,9 @@
 import React from "react";
 import "./ContactPage.css";
 
-// creating the form for the contact us component
+// This is the form where users can add their name, email and message to contact the company
+// The footer is also on the bottom of this page
+
 const ContactPage = () => {
   return (
     <div className="contactpage ">
